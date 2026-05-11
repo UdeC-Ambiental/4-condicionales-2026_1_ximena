@@ -1,0 +1,11 @@
+sitio,temperatura,riesgo_termico,pH,estado,alerta,oxigeno,nivel_oxigeno,riesgo_biologico,diagnostico_final
+Río Subachoque,18.5,Baja,7.2,Normal, Agua segura,7.8,Medio,False,normal
+Quebrada Honda (Facatativá),19.4,Baja,6.3,Ácida, Agua segura,6.2,Medio,False,parcial
+Río Botello (Madrid),22.7,Media,6.8,Normal, Agua segura,5.9,Medio,False,parcial
+Afluente San José (El Rosal),20.1,Media,7.9,Normal, Agua segura,8.3,Alto,False,parcial
+Río Villeta,28.3,Alta,8.7,Alcalina,⚠️ Riesgo alcalino,6.1,Medio,False,total
+Quebrada Cune (San Francisco),25.2,Media,6.0,Ácida, Agua segura,4.5,Bajo,True,total
+Río Tobia (Nocaima),26.9,Alta,7.4,Normal, Agua segura,5.2,Medio,False,parcial
+Quebrada Negra (La Vega),24.4,Media,7.6,Normal, Agua segura,7.0,Medio,False,parcial
+Río Bahamón (Sasaima),27.6,Alta,8.1,Normal, Agua segura,6.7,Medio,False,parcial
+Río Guayuriba (La Mesa),30.5,Alta,5.9,Ácida, Agua segura,4.8,Bajo,True,total
